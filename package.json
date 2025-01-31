@@ -1,5 +1,5 @@
 {
-  "name": "Bugatti",
+  "name": "Jani g",
   "version": "1.0.0",
   "description": "Promised Project ",
   "main": "index.js",
@@ -119,6 +119,6 @@
         "yt-search": "2.12.1", 
         "@mrnima/tiktok-downloader":"1.0.0",
         "@mrnima/facebook-downloader":"1.0.0",
-        "mrnima-moviedl":"1.0.0"
+        "mrdanish-moviedl":"1.0.0"
     }
 }
