@@ -1,5 +1,5 @@
 {
-  "name": "ᴊᴏᴇʟ xᴍᴅ ʙᴏᴛ",
+  "name": "Dk xTalwar md",
   "description": "ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ʙʏ ʟᴏʀ ᴊᴏᴇʟ",
   "logo": "https://files.catbox.moe/sgld88.jpg",
   "keywords": ["bot"],
@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "UaU3QRxD#ch0SWdb5luVVmVGctkfauyM-h5IZ_Cs9jkTMd4Uu4JA.",
       "required": true,
       "value": ""
     },  
@@ -64,7 +64,7 @@
     }, 
 
     "PREFIX": {
-      "description": " set your bot prefix",
+      "description": " Taimoor jani",
       "required": true,
       "value": "."
     }, 
