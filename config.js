@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "enter your session",
+    SESSION_ID: process.env.SESSION_ID || "UaU3QRxD#ch0SWdb5luVVmVGctkfauyM-h5IZ_Cs9jkTMd4Uu4JA",
     CAPTION: process.env.CAPTION || "кєєρ υѕιηg ʝσєℓ χм∂ вσт",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
@@ -14,9 +14,9 @@ module.exports = {
     AUTO_TYPING: process.env.AUTO_TYPING || "false",
     CURRENT_STATUS: process.env.CURRENT_STATUS || "false",
     MODE: process.env.MODE || "public",
-    AUTO_VOICE: process.env.AUTO_VOICE || "true",
+    AUTO_VOICE: process.env.AUTO_VOICE || "false",
     AUTO_STICKER: process.env.AUTO_STICKER || "true",
-    AUTO_REPLY: process.env.AUTO_REPLY || "true",
+    AUTO_REPLY: process.env.AUTO_REPLY || "false",
     OWNER_IMG: process.env.OWNER_IMG || "https://files.catbox.moe/yvf7h8.png",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/yvf7h8.png",
     ALIVE_MSG: process.env.ALIVE_MSG || "*ɪ'ᴍ ᴀʟᴡᴀʏs ᴏɴʟɪɴᴇ ᴍᴏᴛʜᴇʀғᴜᴄᴋᴇʀ*",
